@@ -1,4 +1,4 @@
-# Portfolio Project (Data Analysis): Bank Loan Lending Data Analytics.
+Bank Loan Lending Data Analytics.
 ### Tarun Kumar 
 ### Project Role: Data Analyst – Financial Bank.
 
@@ -37,9 +37,7 @@ This dynamic analysis dashboard will be used for the following job roles to incr
   * DML (Data Manipulation Language) for data preparation (Update, Set etc)   
   * ETL (Extract-Transform-Load) from csv data files to mySQL database.
   * Data validation for UAT (User Acceptance Testing). Matching data between displayed values on Tableau dashboard v/s data in source table/Excel sheet (data source).
-* Tableau – Desktop and Public.
-  * Data Import as ‘Tableau tables’ – data source (CSV data file, mySQL Database Tables)
-  * Data Visualization - Interactive Dashboard Filters which allows one to toggle between various metrics.
+
 * Microsoft Excel 
   * Knowledge of formulas and functions to be used in any typical data analytical solutions.
 
@@ -115,7 +113,6 @@ Developed second dashboard (OVERVIEW) and created various chart visualizations t
   * Employee Length Analysis (Bar Chart)
   * Loan Purpose Breakdown (Bar Chart)
   * Home Ownership Analysis (Tree Map)
-* Used Tableau advanced feature called ‘Parameters’ for dynamic calculations for multiple charts.
 * Used geospatial map (filled map) to show data values visualizations (dynamic measure selection). 
 * Used Bar charts with labels and sorting to visualize data.
 * I activated ‘filter’ feature of these charts to display changed data on dashboard. For example, i.e. data on other charts will change as we click on any state in map chart	.
@@ -128,11 +125,9 @@ Created ‘Navigation’ buttons to navigate among various dashboards (Summary, 
 
 ## Portfolio Project Documentation (Final Conclusion):
 ### Documentation: 
-* ReadMe-BankLoan-LendingDataAnalysis(SQL-Tableau).pdf
+* ReadMe-BankLoan-LendingDataAnalysis(SQL-).pdf
 * SQL Script-BankLoan-LendingDataAnalysis.pdf
 * Business Requirements-BankLoan-LendingDataAnalysis.pdf
-### Output File (Published on my Tableau Public account):
-The Tableau Dashboard. Please visit my Tableau Public account.
 Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
 
 
