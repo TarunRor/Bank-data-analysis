@@ -131,14 +131,6 @@ Created ‘Navigation’ buttons to navigate among various dashboards (Summary, 
 Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
 
 
-## Dynamic and Interactive Dashboard (SUMMARY):
-![image](https://github.com/user-attachments/assets/ceb5e64b-3719-4436-998c-537b8e4db617)
-
-## Dynamic and Interactive Dashboard (OVERVIEW):
-![image](https://github.com/user-attachments/assets/00cfbbb9-05dc-4fd5-a597-802f3e37f3e7)
-
-## Dynamic and Interactive Dashboard (DETAILS):
-![image](https://github.com/user-attachments/assets/91420105-0725-46f5-b5f0-84f7aadff866)
 
 
 
